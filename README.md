@@ -34,9 +34,10 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
       src="https://img.shields.io/github/followers/Danilosouzax?label=Seguidores&style=for-the-badge&logo=github&logoColor=ffffff&color=0b1020&labelColor=7c3aed" />
   </a>
 
-  <a href="https://github.com/Danilosouzax/jobtracker-fullstack/stargazers">
-    <img alt="Stars JobTracker" title="Stars do JobTracker"
-      src="https://img.shields.io/github/stars/Danilosouzax/jobtracker-fullstack?style=for-the-badge&label=Stars%20JobTracker&logo=github&logoColor=ffffff&color=0b1020&labelColor=f59e0b" />
+  <!-- Stars TOTAL (real) — gerado por GitHub Actions e publicado no branch output -->
+  <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
+    <img alt="Stars (total)" title="Stars totais (somatório de todos os repositórios)"
+      src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/badges/total-stars.svg" />
   </a>
 </p>
 
@@ -80,7 +81,7 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=4" />
 </p>
 
-<!-- Este card mostra "Total Stars" (total de todos os seus repositórios) -->
+<!-- Card também mostra Total Stars (extra / redundante, mas útil) -->
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=4" />
 </p>
