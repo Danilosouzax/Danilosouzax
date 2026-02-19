@@ -21,6 +21,10 @@ Atuo com **ciência de dados**, **ML/DL**, **modelos generativos (GANs)** e proc
     <img alt="Repos" title="Meus repositórios"
       src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a855f7" />
   </a>
+
+  <!-- Profile views (não é métrica oficial do GitHub; é contador de terceiros) -->
+  <img alt="Profile Views" title="Visualizações do perfil"
+    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views" />
 </p>
 
 <p align="left">
@@ -64,30 +68,35 @@ Atuo com **ciência de dados**, **ML/DL**, **modelos generativos (GANs)** e proc
 - **DBS + GANs** — sinais sintéticos para comparação no domínio da frequência e ajuste de hiperparâmetros
 - **Marcadores de impacto antropogênico (ML)** — redução de dimensionalidade e identificação de marcadores
 - **iPet (Flutter + Firebase)** — app de adoção com recomendação inteligente (demo: https://youtu.be/aIUqXhc6z8)
+- **JobTracker Fullstack (FastAPI + SQLite + UI)** — dashboard de candidaturas + export CSV (repo: https://github.com/Danilosouzax/jobtracker-fullstack)
 
 ---
 
 ## 📊 Estatísticas (estáveis / SVG)
-<!-- Seção focada em widgets que estão funcionando no seu perfil -->
+> Dica: alguns cards usam cache externo. Se “não atualizar”, troque o `v=1` para `v=2` (força refresh).
 
 <p align="left">
-  <img height="190" src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- Summary cards (não mostram seu nome -> sem “NinguemD”) -->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
+  <img height="185" src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true&cache_seconds=300" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&cache_seconds=3600" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300&v=1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300&v=1" />
 </p>
 
-<!-- Metrics (painel grande, bem tech e costuma ser estável) -->
 <p align="left">
-  <img src="https://github-metrics.lecoq.io/Danilosouzax?template=classic&config.timezone=America%2FBelem&config.display=large&config.animations=true&config.twemoji=true&base=header%2Cactivity%2Ccommunity%2Crepositories&repositories=100&config.padding=8%2C16" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danilosouzax&theme=tokyonight&v=1" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=1" />
+</p>
+
+<!-- Metrics (bem tech, mas pode falhar às vezes por instabilidade/rate limit) -->
+<p align="left">
+  <img src="https://github-metrics.lecoq.io/Danilosouzax?template=classic&config.timezone=America%2FBelem&config.display=large&config.animations=true&config.twemoji=true&base=header%2Cactivity%2Crepositories&repositories=50&config.padding=8%2C16" />
 </p>
 
 ---
