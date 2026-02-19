@@ -23,9 +23,9 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
       src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a855f7" />
   </a>
 
-  <!-- Profile views (não é métrica oficial do GitHub; é contador de terceiros) -->
-  <img alt="Profile Views" title="Visualizações do perfil"
-    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views" />
+  <!-- Profile views (aprox. / não oficial) -->
+  <img alt="Profile Views (approx.)" title="Visualizações do perfil (aprox.)"
+    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" />
 </p>
 
 <p align="left">
@@ -33,9 +33,11 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
     <img alt="Seguidores" title="Seguidores"
       src="https://img.shields.io/github/followers/Danilosouzax?style=for-the-badge&label=Seguidores&logo=github&logoColor=ffffff&color=0b1020&labelColor=7c3aed" />
   </a>
-  <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
-    <img alt="Stars" title="Repositórios por estrelas"
-      src="https://img.shields.io/badge/Stars-Ver%20Repos-0b1020?style=for-the-badge&logo=star&logoColor=ffffff&labelColor=f59e0b" />
+
+  <!-- Stars do projeto principal (real e oficial via shields) -->
+  <a href="https://github.com/Danilosouzax/jobtracker-fullstack/stargazers">
+    <img alt="Stars JobTracker" title="Stars do JobTracker"
+      src="https://img.shields.io/github/stars/Danilosouzax/jobtracker-fullstack?style=for-the-badge&label=Stars%20JobTracker&logo=github&logoColor=ffffff&color=0b1020&labelColor=f59e0b" />
   </a>
 </p>
 
@@ -88,19 +90,10 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300&v=2" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=2" />
-</p>
+---
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danilosouzax&theme=tokyonight&v=2" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=2" />
-</p>
+## 🐍 Contributions (Snake Animation)
+![Snake animation](https://github.com/Danilosouzax/Danilosouzax/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
