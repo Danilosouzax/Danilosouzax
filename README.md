@@ -29,11 +29,11 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 </p>
 
 <!-- Contadores REAIS (mais estáveis – evita aparecer INVALID) -->
-<p align="left">
-  <a href="https://github.com/Danilosouzax?tab=followers">
-    <img alt="Seguidores" title="Seguidores"
-      src="https://badgen.net/github/followers/Danilosouzax?label=seguidores&icon=github&color=7c3aed" />
-  </a>
+<a href="https://github.com/Danilosouzax?tab=followers">
+  <img alt="Seguidores" title="Seguidores"
+    src="https://badgen.net/github/followers/Danilosouzax.svg?label=seguidores&icon=github&color=7c3aed" />
+</a>
+
   <a href="https://github.com/Danilosouzax/jobtracker-fullstack/stargazers">
     <img alt="Stars JobTracker" title="Stars do JobTracker"
       src="https://badgen.net/github/stars/Danilosouzax/jobtracker-fullstack?label=stars%20jobtracker&icon=github&color=f59e0b" />
