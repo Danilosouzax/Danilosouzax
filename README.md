@@ -24,21 +24,31 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
   </a>
 </p>
 
-<!-- Linha com os 3 contadores lado a lado -->
+<!-- ===== Badges (mesmo estilo da Larissa) ===== -->
 <p align="left">
-  <img alt="Profile Views (approx.)" title="Visualizações do perfil (aprox.)"
-    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" />
+  <!-- Views (aprox.) -->
+  <img 
+    alt="Profile Views (approx.)" 
+    title="Visualizações do perfil (aprox.)"
+    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" 
+  />
 
-  <!-- Seguidores (mais estável: badgen com .svg) -->
-  <a href="https://github.com/Danilosouzax?tab=followers">
-    <img alt="Seguidores" title="Seguidores"
-      src="https://badgen.net/github/followers/Danilosouzax.svg?label=seguidores&icon=github&color=7c3aed" />
+  <!-- Total Stars (estilo Larissa / demolab) -->
+  <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Danilosouzax?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
   </a>
 
-  <!-- Stars TOTAL (real) — gerado por GitHub Actions e publicado no branch output -->
-  <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
-    <img alt="Stars (total)" title="Stars totais (somatório de todos os repositórios)"
-      src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/badges/total-stars.svg" />
+  <!-- Seguidores (estilo Larissa / demolab) -->
+  <a href="https://github.com/Danilosouzax?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Danilosouzax?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
   </a>
 </p>
 
@@ -70,21 +80,28 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 
 ---
 
-## 📊 Estatísticas (gráficos / linguagens)
-> Se algum card “demorar”, é cache externo. Pode dar Ctrl+F5 ou abrir em aba anônima.
+## 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/>
+<br/>
 
 <p align="left">
   <img height="185" src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true&cache_seconds=300" />
-</p>
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=6" />
-</p>
-
-<!-- Card também mostra Total Stars (extra / redundante, mas útil) -->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=6" />
 </p>
 
 <p align="left">
@@ -99,10 +116,7 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 ---
 
 ## 🐍 Contributions (Snake Animation)
-
-<!-- DARK -->
-<img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
-
+<img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ---
 
