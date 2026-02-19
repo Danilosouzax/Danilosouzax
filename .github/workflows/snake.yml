@@ -1,15 +1,15 @@
 name: Generate snake
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # todo dia 00:00 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVG
@@ -18,9 +18,9 @@ jobs:
           github_user_name: Danilosouzax
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
