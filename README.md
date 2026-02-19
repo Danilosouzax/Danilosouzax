@@ -54,7 +54,7 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 
 ---
 
-## ⚡ Foco (rápido)
+## ⚡ Resumo
 - 💻 **Desenvolvimento**: APIs REST, CRUDs, dashboards, automações, integração com banco de dados e deploy
 - 🧠 **GANs + Sinais**: Data Augmentation com EEG (epilepsia) e DBS (Parkinson)
 - 👁️ **Visão Computacional**: ResNet, ViT, YOLO, U-Net (classificação/detecção/segmentação)
@@ -62,7 +62,7 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 
 ---
 
-## 🧬 Stack (Tech / Neon)
+## 🧬 Stack 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,linux,git,flask,fastapi,mysql,sqlite,html,css,docker&theme=dark" />
 </p>
