@@ -29,9 +29,10 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
   <img alt="Profile Views (approx.)" title="Visualizações do perfil (aprox.)"
     src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" />
 
+  <!-- Seguidores (mais estável: badgen com .svg) -->
   <a href="https://github.com/Danilosouzax?tab=followers">
     <img alt="Seguidores" title="Seguidores"
-      src="https://img.shields.io/github/followers/Danilosouzax?label=Seguidores&style=for-the-badge&logo=github&logoColor=ffffff&color=0b1020&labelColor=7c3aed" />
+      src="https://badgen.net/github/followers/Danilosouzax.svg?label=seguidores&icon=github&color=7c3aed" />
   </a>
 
   <!-- Stars TOTAL (real) — gerado por GitHub Actions e publicado no branch output -->
@@ -77,28 +78,33 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=4" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=6" />
 </p>
 
 <!-- Card também mostra Total Stars (extra / redundante, mas útil) -->
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=6" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=6" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=4" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=6" />
 </p>
 
 ---
 
 ## 🐍 Contributions (Snake Animation)
-![Snake animation](https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake-dark.svg)
+
+<!-- DARK -->
+<img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
+
+<!-- Se o dark não existir por algum motivo, esse costuma existir: -->
+<img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 
