@@ -1,6 +1,6 @@
-<!-- ===== Danilo Conceição | GitHub Profile README ===== -->
+<!-- ===== Danilo Conceição | Cyber/Neon README (SVG only) ===== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2335,100:7aa2f7&height=140&section=header&text=Danilo%20Concei%C3%A7%C3%A3o&fontSize=40&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=140&section=header&text=Danilo%20Concei%C3%A7%C3%A3o&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # 👨‍💻 Danilo Conceição
 
@@ -11,66 +11,72 @@ Trabalho com ciência de dados, ML/DL e aplicações com dados biológicos/sinai
 
 <p align="left">
   <a href="mailto:nillo.13bol@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" title="Me envie um email"
+      src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=7c3aed" />
   </a>
   <a href="https://www.linkedin.com/in/danilo-concei%C3%A7%C3%A3o-9a62a3166/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img alt="LinkedIn" title="Meu LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2563eb" />
   </a>
   <a href="https://github.com/Danilosouzax">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="GitHub" title="Meu GitHub"
+      src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=06b6d4" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Danilosouzax?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/Danilosouzax?style=for-the-badge&label=Seguidores&color=bb9af7&labelColor=1f2335" />
+    <img alt="Seguidores" title="Seguidores"
+      src="https://img.shields.io/github/followers/Danilosouzax?style=for-the-badge&label=Seguidores&logo=github&logoColor=ffffff&color=0f172a&labelColor=22c55e" />
   </a>
   <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
-    <img alt="Repositórios por estrelas" src="https://img.shields.io/badge/Stars-Ver%20Repos-7aa2f7?style=for-the-badge&labelColor=1f2335&logo=star&logoColor=white" />
+    <img alt="Repos por estrelas" title="Repos por estrelas"
+      src="https://img.shields.io/badge/Stars-Ver%20Repos-0f172a?style=for-the-badge&logo=star&logoColor=ffffff&labelColor=f59e0b" />
   </a>
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🧬 Stack (Tech / Neon)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,linux,git,flask,mysql&theme=dark" />
 </p>
 
 ---
 
-## 📊 Estatísticas
-
-<!-- ✅ Versão mais estável (com .png) -->
+## 📊 Estatísticas (SVG)
 <p align="left">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=86400" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&cache_seconds=86400" />
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&custom_title=Tecnologias" />
 </p>
 
-<!-- ✅ Streak (opcional, bem tech) -->
 <p align="left">
-  <img height="190" src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Gráfico “no meio” (painel high-tech)
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
+  <img height="190"
+       src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📉 Activity Graph (linha / contribuições)
+## 🧩 Painel “no meio” (Cyber)
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danilosouzax&theme=tokyo-night&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧪 Projetos em destaque
-- 🧠 EEG / DBS + Data Augmentation (GANs)
-- 👁️ Visão Computacional (YOLO / U-Net / ViT)
-- 📱 iPet (Flutter + Firebase + recomendação)
+- 🧠 **EEG / DBS + Data Augmentation (GANs)**
+- 👁️ **Visão Computacional (YOLO / U-Net / ViT)**
+- 📱 **iPet (Flutter + Firebase + recomendação)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2335,100:bb9af7&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=120&section=footer" />
