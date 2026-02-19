@@ -22,20 +22,21 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
     <img alt="Repos" title="Meus repositórios"
       src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a855f7" />
   </a>
-
-  <!-- Profile views (aprox. / não oficial) -->
-  <img alt="Profile Views (approx.)" title="Visualizações do perfil (aprox.)"
-    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" />
 </p>
 
-<!-- Contadores REAIS (mais estáveis – evita aparecer INVALID) -->
-<a href="https://github.com/Danilosouzax?tab=followers">
-  <img alt="Seguidores" title="Seguidores"
-    src="https://img.shields.io/github/followers/Danilosouzax?label=seguidores&style=for-the-badge&logo=github&logoColor=ffffff&color=7c3aed" />
-</a>
+<!-- Linha com os 3 contadores lado a lado -->
+<p align="left">
+  <img alt="Profile Views (approx.)" title="Visualizações do perfil (aprox.)"
+    src="https://komarev.com/ghpvc/?username=Danilosouzax&style=for-the-badge&color=7c3aed&label=Profile%20Views%20(approx.)" />
+
+  <a href="https://github.com/Danilosouzax?tab=followers">
+    <img alt="Seguidores" title="Seguidores"
+      src="https://img.shields.io/github/followers/Danilosouzax?label=Seguidores&style=for-the-badge&logo=github&logoColor=ffffff&color=0b1020&labelColor=7c3aed" />
+  </a>
+
   <a href="https://github.com/Danilosouzax/jobtracker-fullstack/stargazers">
     <img alt="Stars JobTracker" title="Stars do JobTracker"
-      src="https://badgen.net/github/stars/Danilosouzax/jobtracker-fullstack?label=stars%20jobtracker&icon=github&color=f59e0b" />
+      src="https://img.shields.io/github/stars/Danilosouzax/jobtracker-fullstack?style=for-the-badge&label=Stars%20JobTracker&logo=github&logoColor=ffffff&color=0b1020&labelColor=f59e0b" />
   </a>
 </p>
 
@@ -75,17 +76,22 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=3" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=4" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=300&v=4" />
+</p>
+
+<!-- Este card mostra "Total Stars" (total de todos os seus repositórios) -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&v=4" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=4" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=3" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&v=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&v=4" />
 </p>
 
 ---
