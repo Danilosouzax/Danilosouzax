@@ -86,14 +86,19 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=300&v=2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=300&v=2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=300&v=2" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=300&v=2" />
+</p>
+
+<!-- Painel grande (bem estável e substitui cards que costumam quebrar) -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight&v=2" />
 </p>
 
 ---
 
 ## 🐍 Contributions (Snake Animation)
-![Snake animation](https://github.com/Danilosouzax/Danilosouzax/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Danilosouzax/Danilosouzax/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
