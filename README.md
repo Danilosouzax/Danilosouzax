@@ -1,13 +1,12 @@
-<!-- ===== Danilo Conceição | Purple Neon (SVG-only) ===== -->
+<!-- ===== Danilo Conceição | Purple Cyber README (Stable SVG) ===== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:4c1d95,100:a855f7&height=150&section=header&text=Danilo%20Concei%C3%A7%C3%A3o&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 # 👨‍💻 Danilo Conceição
+**`Data Science • ML/DL • Visão Computacional • Bio/Health Data`**
 
-**`Data Science • ML/DL • Dev • Bio/Health Data`**
-
-Sou Engenheiro de Telecom (UFPA) e mestrando em Computação Aplicada (PPGEE).  
-Trabalho com ciência de dados, ML/DL e aplicações com dados biológicos/sinais, além de automação e web apps.
+Engenheiro de Telecom (UFPA) e **Mestrando em Computação Aplicada (PPGEE)**.  
+Atuo com **ciência de dados**, **ML/DL**, **modelos generativos (GANs)** e processamento de sinais (EEG/DBS), além de automação e desenvolvimento de soluções.
 
 <p align="left">
   <a href="mailto:nillo.13bol@gmail.com">
@@ -18,9 +17,9 @@ Trabalho com ciência de dados, ML/DL e aplicações com dados biológicos/sinai
     <img alt="LinkedIn" title="Meu LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=2563eb" />
   </a>
-  <a href="https://github.com/Danilosouzax">
-    <img alt="GitHub" title="Meu GitHub"
-      src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a855f7" />
+  <a href="https://github.com/Danilosouzax?tab=repositories">
+    <img alt="Repos" title="Meus repositórios"
+      src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a855f7" />
   </a>
 </p>
 
@@ -30,66 +29,69 @@ Trabalho com ciência de dados, ML/DL e aplicações com dados biológicos/sinai
       src="https://img.shields.io/github/followers/Danilosouzax?style=for-the-badge&label=Seguidores&logo=github&logoColor=ffffff&color=0b1020&labelColor=7c3aed" />
   </a>
   <a href="https://github.com/Danilosouzax?tab=repositories&sort=stargazers">
-    <img alt="Stars" title="Repos por estrelas"
+    <img alt="Stars" title="Repositórios por estrelas"
       src="https://img.shields.io/badge/Stars-Ver%20Repos-0b1020?style=for-the-badge&logo=star&logoColor=ffffff&labelColor=f59e0b" />
-  </a>
-  <a href="https://github.com/Danilosouzax?tab=repositories">
-    <img alt="Repos" title="Meus repositórios"
-      src="https://img.shields.io/badge/Repos-Explorar-0b1020?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=22c55e" />
   </a>
 </p>
 
 ---
 
-## ⚡ Sobre mim (rápido)
-- 🧠 **ML/DL** com dados biológicos/sinais (EEG/DBS) e modelos generativos (GANs)
-- 👁️ Visão computacional (YOLO / U-Net / ViT)
-- 🧩 Pipelines de dados, automação e web apps
+## ⚡ Foco (rápido)
+- 🧠 **GANs + Sinais**: Data Augmentation com EEG (epilepsia) e DBS (Parkinson)
+- 👁️ **Visão Computacional**: ResNet, ViT, YOLO, U-Net (classificação/detecção/segmentação)
+- 🧩 **Pipelines & Dev**: interfaces web, automação e aplicações com dados biológicos
 
 ---
 
 ## 🧬 Stack (Tech / Neon)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,linux,git,flask,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,linux,git,flask,mysql,html,css&theme=dark" />
 </p>
 
 ---
 
-## 📊 Estatísticas (SVG)
+## 🏢 Experiência (seleção)
+- **CCAD (UFPA)** — Ciência de Dados & Dev (08/2024 – atual): ML aplicado a dados biológicos, projetos de IA, interfaces web
+- **Lab. Neurofisiologia E. O. Cruz** — IA (01/2020 – 06/2024): processamento de sinais, DS, ML/DL, modelos generativos
+- **Clínica Viver** — Técnico de TI (01/2024 – 12/2025): redes, manutenção, suporte, desenvolvimento de apps/sites
+- **FUNTELPA (TV Cultura/TV Norte)** — TI + Operador de GC (05/2022 – 05/2024): suporte, redes, operação (Chyron Prime)
+- **DCC/UFPA** — Administrativo (10/2019 – 09/2021): SIPAC, registros, documentação
+
+---
+
+## 🧪 Projetos (destaque)
+- **EEG + GANs** — geração de séries temporais sintéticas e avaliação de similaridade (epilepsia)
+- **DBS + GANs** — sinais sintéticos para comparação no domínio da frequência e ajuste de hiperparâmetros
+- **Marcadores de impacto antropogênico (ML)** — redução de dimensionalidade e identificação de marcadores
+- **iPet (Flutter + Firebase)** — app de adoção com recomendação inteligente (demo: https://youtu.be/aIUqXhc6z8)
+
+---
+
+## 📊 Estatísticas (estáveis / SVG)
+<!-- Seção focada em widgets que estão funcionando no seu perfil -->
 
 <p align="left">
-  <img height="190"
-       src="https://github-readme-stats.vercel.app/api?username=Danilosouzax&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&locale=pt-br" />
-  <img height="190"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilosouzax&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&custom_title=Tecnologias" />
+  <img height="190" src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Summary cards (não mostram seu nome -> sem “NinguemD”) -->
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
 </p>
 
 <p align="left">
-  <img height="190"
-       src="https://streak-stats.demolab.com?user=Danilosouzax&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danilosouzax&theme=tokyonight&utcOffset=-3&cache_seconds=3600" />
+</p>
+
+<!-- Metrics (painel grande, bem tech e costuma ser estável) -->
+<p align="left">
+  <img src="https://github-metrics.lecoq.io/Danilosouzax?template=classic&config.timezone=America%2FBelem&config.display=large&config.animations=true&config.twemoji=true&base=header%2Cactivity%2Ccommunity%2Crepositories&repositories=100&config.padding=8%2C16" />
 </p>
 
 ---
 
-## 🧩 Painel “no meio” (Cyber / Purple)
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danilosouzax&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danilosouzax&theme=tokyonight" />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danilosouzax&theme=tokyonight" />
-</p>
-
----
-
-## 🧪 Projetos em destaque
-- 🧠 **EEG / DBS + Data Augmentation (GANs)**
-- 👁️ **Visão Computacional (YOLO / U-Net / ViT)**
-- 📱 **iPet (Flutter + Firebase + recomendação)**
+> 🔒 **Privacidade:** recomendo manter telefone/endereço fora do README público. Use email + LinkedIn.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:0b1020&height=120&section=footer" />
