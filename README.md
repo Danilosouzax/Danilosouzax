@@ -103,8 +103,6 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 <!-- DARK -->
 <img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 
-<!-- Se o dark não existir por algum motivo, esse costuma existir: -->
-<img src="https://raw.githubusercontent.com/Danilosouzax/Danilosouzax/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ---
 
