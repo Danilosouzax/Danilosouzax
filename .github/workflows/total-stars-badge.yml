@@ -2,7 +2,7 @@ name: Update total stars badge
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"   # todo dia 03:00 UTC (madrugada BR)
   workflow_dispatch:
 
 permissions:
