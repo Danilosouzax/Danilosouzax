@@ -120,6 +120,5 @@ Trabalho com **Python (FastAPI/Flask)**, bancos de dados, versionamento (**Git/G
 
 ---
 
-> 🔒 **Privacidade:** recomendo manter telefone/endereço fora do README público. Use email + LinkedIn.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:0b1020&height=120&section=footer" />
