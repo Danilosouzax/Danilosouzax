@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="28" role="img" aria-label="STARS (TOTAL): 4">
+  <title>STARS (TOTAL): 4</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".12"/>
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="254" height="28" rx="6" fill="#fff"/>
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="184" height="28" fill="#0b1020"/>
+    <rect x="184" width="70" height="28" fill="#f59e0b"/>
+    <rect width="254" height="28" fill="url(#s)"/>
+  </g>
+  <g fill="#ffffff" text-anchor="middle"
+     font-family="Verdana, Geneva, DejaVu Sans, sans-serif"
+     font-size="12" font-weight="700">
+    <text x="92.0" y="19">STARS (TOTAL)</text>
+    <text x="219.0" y="19">4</text>
+  </g>
+</svg>
